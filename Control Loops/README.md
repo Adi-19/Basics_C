@@ -14,3 +14,6 @@ It is more like a while statement, except that it tests the condition at the end
 
 # Nested loops
 It can be used as one or more loops inside any other while, for, or do..while loop.
+
+# Break statement
+Terminates the loop or switch statement and transfers execution to the statement immediately following the loop or switch.
