@@ -11,3 +11,6 @@ Executes a sequence of statements multiple times and abbreviates the code that m
 
 # Do...while loop
 It is more like a while statement, except that it tests the condition at the end of the loop body.
+
+# Nested loops
+It can be used as one or more loops inside any other while, for, or do..while loop.
