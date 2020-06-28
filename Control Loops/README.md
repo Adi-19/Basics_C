@@ -8,3 +8,6 @@ Repeats a statement or group of statements while a given condition is true. It t
 
 # For loop
 Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.
+
+# Do...while loop
+It is more like a while statement, except that it tests the condition at the end of the loop body.
