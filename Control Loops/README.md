@@ -2,3 +2,6 @@
 
 # Loops
 A loop statement allows us to execute a statement or group of statements multiple times
+
+# While loop
+Repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.
