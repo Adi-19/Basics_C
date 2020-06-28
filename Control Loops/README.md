@@ -5,3 +5,6 @@ A loop statement allows us to execute a statement or group of statements multipl
 
 # While loop
 Repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.
+
+# For loop
+Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.
