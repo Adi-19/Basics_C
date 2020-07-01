@@ -4,3 +4,7 @@
 3. Nested if 
 4. Else if 
 5. Switch 
+
+
+#If 
+An if statement consists of a boolean expression followed by one or more statements.
