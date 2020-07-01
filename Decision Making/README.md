@@ -14,3 +14,6 @@ An if statement can be followed by an optional else statement, which executes wh
 
 # Nested if statements
 You can use one if or else if statement inside another if or else if statement(s).
+
+# Switch statement
+A switch statement allows a variable to be tested for equality against a list of values.
