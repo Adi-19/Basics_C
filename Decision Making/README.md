@@ -6,5 +6,8 @@
 5. Switch 
 
 
-#If 
+# If 
 An if statement consists of a boolean expression followed by one or more statements.
+
+# if...else statement
+An if statement can be followed by an optional else statement, which executes when the Boolean expression is false.
