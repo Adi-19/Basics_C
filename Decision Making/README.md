@@ -9,5 +9,8 @@
 # If 
 An if statement consists of a boolean expression followed by one or more statements.
 
-# if...else statement
+# If...else statement
 An if statement can be followed by an optional else statement, which executes when the Boolean expression is false.
+
+# Nested if statements
+You can use one if or else if statement inside another if or else if statement(s).
