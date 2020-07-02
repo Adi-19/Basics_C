@@ -4,6 +4,7 @@
 3. Nested if 
 4. Else if 
 5. Switch 
+6. Forward Goto
 
 
 # If 
