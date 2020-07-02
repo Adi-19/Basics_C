@@ -17,3 +17,6 @@ You can use one if or else if statement inside another if or else if statement(s
 
 # Switch statement
 A switch statement allows a variable to be tested for equality against a list of values.
+
+# Goto
+The goto statement is simple statement used to transfer the program control unconditionally from one statement to another statement
