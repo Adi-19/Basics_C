@@ -20,4 +20,4 @@ Terminates the loop or switch statement and transfers execution to the statement
 A break causes the innermost enclosing loop or switch to be exited immediately. 
 
 # Continue statement
-Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.
+The continue statement causes the loop to be continued with the next iteration after skipping any statement in between. The continue with the next iteration.
