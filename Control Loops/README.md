@@ -17,6 +17,7 @@ It can be used as one or more loops inside any other while, for, or do..while lo
 
 # Break statement
 Terminates the loop or switch statement and transfers execution to the statement immediately following the loop or switch.
+A break causes the innermost enclosing loop or switch to be exited immediately. 
 
 # Continue statement
 Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.
