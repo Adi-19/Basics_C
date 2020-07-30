@@ -16,3 +16,7 @@ i.e.,Last In, First out, meaningthat the most recentlyadded element isthe first 
 A stack hastwo main operationsthat occur only at the top ofthe stack:
 push and pop. 
 
+# Push () method:
+The push operation places an element at the top of stack where as the pop operation removes an elementfrom the topofthe stack.
+The push ()method allows you to add one ormore elementsto the end of the array. 
+The push ()method returnsthe value ofthe length property that specifiesthe number of elementsin the array.
