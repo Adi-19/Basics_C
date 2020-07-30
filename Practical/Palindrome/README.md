@@ -20,3 +20,8 @@ push and pop.
 The push operation places an element at the top of stack where as the pop operation removes an elementfrom the topofthe stack.
 The push ()method allows you to add one ormore elementsto the end of the array. 
 The push ()method returnsthe value ofthe length property that specifiesthe number of elementsin the array.
+
+# Pop () method:
+The pop () method removes the element at the end of the array and
+returnsthe element to the caller.Ifthe array is empty, the pop ()method
+returns undefined.
