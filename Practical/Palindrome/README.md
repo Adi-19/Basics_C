@@ -12,3 +12,7 @@ following operationson STACK ofIntegers (Array Implementation of Stack with maxi
 
 # Theory:
 A stack is a data structure that holds a list of elements. A stack works based on the LIFO principle
+i.e.,Last In, First out, meaningthat the most recentlyadded element isthe first one to remove.
+A stack hastwo main operationsthat occur only at the top ofthe stack:
+push and pop. 
+
