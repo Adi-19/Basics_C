@@ -10,3 +10,5 @@ following operationson STACK ofIntegers (Array Implementation of Stack with maxi
 5. Display the statusof Stack
 6. Exit
 
+# Theory:
+A stack is a data structure that holds a list of elements. A stack works based on the LIFO principle
